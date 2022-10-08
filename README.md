@@ -16,3 +16,9 @@ Game Features:
 - Progressively increasing level difficulty
 - Game over score
 This was my first project for me to learn and understand python
+
+Gameplay screenshots:
+
+![](/img/GameplayScreenshots/screen1.jpg?raw=true)
+![](/img/GameplayScreenshots/screen2.jpg?raw=true)
+![](/img/GameplayScreenshots/screen3.jpg?raw=true)
