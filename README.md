@@ -1,24 +1,27 @@
 # RocketDive
-Python 2d singleplayer game about rocket
 
-About game:
-- This was my first python experience
-- I created this game for fun when i was 15 years old (10th grade)
-- It took me around 2 days make it (3-5 hours a day)
-- I used python library pygame for it
-- All of collisions, camera movements, speed velocity were done from scratch by myself
-- Everything is just in 1 .py file (I know that it is not good)
-- Around 500 lines of code
+RocketDive is a 2D single-player game about navigating a rocket, built in Python using Pygame.
 
-Game Features:
-- Procedural level generation
-- Player velocity
-- Progressively increasing level difficulty
-- Game over score
-This was my first project for me to learn and understand python
+## About the Game
 
-Gameplay screenshots:
+- **Purpose**: Created for fun and as my first project in Python.
+- **Background**: Developed when I was 15 years old (10th grade).
+- **Development Time**: Completed in about 2 days, working 3-5 hours daily.
+- **Libraries Used**: Pygame.
+- **Technical Details**: Collision handling, camera movements, and velocity mechanics were implemented from scratch.
+- **Code Structure**: The entire game is contained in one `.py` file with around 500 lines of code.
 
-![](/img/GameplayScreenshots/screen1.jpg?raw=true)
-![](/img/GameplayScreenshots/screen2.jpg?raw=true)
-![](/img/GameplayScreenshots/screen3.jpg?raw=true)
+## Game Features
+
+- **Procedural Level Generation**: Each playthrough offers a new experience.
+- **Player Mechanics**: Velocity-based rocket movement.
+- **Progressive Difficulty**: Levels increase in difficulty as the game progresses.
+- **Score Tracking**: Displays score at game over.
+
+This project helped me learn and understand the basics of Python and game development.
+
+## Gameplay Screenshots
+
+![Gameplay Screenshot 1](/img/GameplayScreenshots/screen1.jpg?raw=true)
+![Gameplay Screenshot 2](/img/GameplayScreenshots/screen2.jpg?raw=true)
+![Gameplay Screenshot 3](/img/GameplayScreenshots/screen3.jpg?raw=true)
